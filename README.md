@@ -51,7 +51,7 @@ The sales dataset includes the following columns:
 - 🙍 **Customer ID** – Unique identifier for customers  
 - 🚻 **Gender** – Customer gender  
 - 🎂 **Age** – Age of customer  
-- 👨‍👩‍👧 **Generation** – Customer generation group (e.g., Gen Z, Millennials)  
+- 👨‍👩‍👧 **Generation** – Customer generation group (e.g., Adult, Senior, Young Adult)  
 - 🛒 **Product Category** – Category of product sold  
 - 🔢 **Quantity** – Number of units sold  
 - 💲 **Price per Unit** – Selling price of each unit  
