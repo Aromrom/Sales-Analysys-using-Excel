@@ -100,7 +100,7 @@ It demonstrates my strengths in:
 If you're curious to see more, I’ve also included a separate Excel file called **"Bike Sales Visualization"** that contains:
 
 - 📊 Different pivot tables and dynamic charts
-<img width="758" height="301" alt="image" src="https://github.com/user-attachments/assets/9f889fef-c302-4cbc-9038-073107a94f4c" />
+<img width="1044" height="324" alt="image" src="https://github.com/user-attachments/assets/7ea57d4d-afdb-4729-989c-0dee1712edd8" />
 
 - 🧩 Interactive slicers
 <img width="988" height="357" alt="image" src="https://github.com/user-attachments/assets/c6dac6cd-84fa-4269-8c84-a332e2c78234" />
