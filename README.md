@@ -38,7 +38,7 @@ Welcome to my **Sales Dataset Analysis** project! This project showcases my skil
 
 ## 📥 How to Use
 1. Open the Excel file.
-2. Explore sheets including: **Raw Data**, **Analysis**, **Pivot Summary**, and **Charts**.
+2. Explore sheets including: **Raw Data**, **Sales by Category and Generation**, **Transactions**, and **Day 2 Task 2**.
 3. Use **slicers** to filter data interactively and derive custom insights.
 
 ---
